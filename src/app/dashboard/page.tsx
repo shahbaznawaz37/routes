@@ -7,8 +7,8 @@ export default function Dashboard() {
   return (
     <div>
       <div>
-        My Name is Shahbaz Nawaz and this is practice project to learn "Link"
-        tag and "UseRoute"
+        My Name is Shahbaz Nawaz and this is practice project to learn Link tag
+        and UseRoute
       </div>
       <Link href="./dashboard/analytics">Go to Analytics</Link>
       <br />
